@@ -1,0 +1,39 @@
+{
+ " events": [
+        {
+          id: 5928101,
+          category: "bien-être animal",
+          title: "Journée d'adoption des chats",
+          description: "Trouvez votre nouvel ami félin lors de cet événement",
+          location: "Meow Town",
+          date: "28 January 2022",
+          time: "12:00",
+          petsAllowed: true,
+          organizer: "Foulen Ben Foulen",
+        },
+        {
+          id: 5928102,
+          category: "bien-être animal",
+          title: "Adoption des chiens",
+          description:
+            "Venez rencontrer nos adorables chiens disponibles pour adoption",
+          location: "Woof Town",
+          date: "30 January 2022",
+          time: "15:00",
+          petsAllowed: true,
+          organizer: "Amina Ben Amina",
+        },
+        {
+          id: 5928103,
+          category: "bien-être animal",
+          title: "Vente de nourriture pour animaux",
+          description:
+            "Un événement pour acheter des produits alimentaires pour vos animaux",
+          location: "Animal World",
+          date: "1 February 2022",
+          time: "10:00",
+          petsAllowed: false,
+          organizer: "Rami Ben Rami",
+        }
+      ]
+    }
